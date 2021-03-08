@@ -30,8 +30,9 @@ Any merge conflicts **must** be handled here.
 * Merging a finished feature branch into test
 Push any changes to your *feature-branch*.
 Checkout the **test** branch and pull the latest.  
-Right-click on your *feature-branch* and select **Rebase feature-branch onto test**  
+Right-click on your *feature-branch*, select **Rebase feature-branch onto test**.  
 This recreates your *feature-branch* history with the latest test as the base. 
 Any merge conflicts **must** be handled here.
 
 * Merging test into master
+We all agree to it, the 
